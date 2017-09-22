@@ -1,0 +1,5 @@
+{
+	projects:[
+		{ name:"projectName", url:"projectUrl", image:"projectImage", longDescription:"a long description", bulletPoints:["bulletpoint 1", "bulletpoint 2"] },
+	]
+}
